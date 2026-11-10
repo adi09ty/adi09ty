@@ -30,8 +30,3 @@ Link shortener with expiry, per-day click analytics, Redis cache-aside caching w
 
 **[Inventory Management API](https://github.com/adi09ty/inventory-management-api)**
 Product/supplier/stock tracking with JWT auth, role-based access control, optimistic locking, and Swagger/OpenAPI docs.
-
-#### GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi09ty&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adi09ty&layout=compact&hide_border=true)
